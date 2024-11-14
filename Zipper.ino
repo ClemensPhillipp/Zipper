@@ -1,4 +1,3 @@
-#include <Servo.h>
 int GSM1 = 3;
 int GSM2 = 11;
 
